@@ -21,5 +21,5 @@
 ## [Hw4]()
 + 紀錄程式
 
-## [Bouns](https://github.com/qaz12312/iOS-App-Development/tree/main/Bonus)
+## [Bons](https://github.com/qaz12312/iOS-App-Development/tree/main/Bonus)
 + 亂數-桌遊
