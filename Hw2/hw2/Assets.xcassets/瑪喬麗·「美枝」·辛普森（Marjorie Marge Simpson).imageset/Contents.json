@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "瑪喬麗·「美枝」·辛普森（Marjorie Marge Simpson).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
