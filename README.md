@@ -9,6 +9,7 @@
   + https://designs.ai/graphicmaker/
   + https://brandcolors.net/
 ## [Hw1](https://github.com/qaz12312/iOS-App-Development/tree/main/DemoHw1/hw1)
++ 利用 SwiftUI 的 Path & Shape 繪圖
 + yellow minions
 + purple minions
 
